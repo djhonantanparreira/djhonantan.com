@@ -1,0 +1,24 @@
+{
+  "name": "djhonantan.com",
+  "version": "1.0.0",
+  "description": "Implementation of my personal website using Next.js and Tailwind CSS.",
+  "homepage": "https://github.com/djhonantanparreira/djhonantan.com#readme",
+  "bugs": {
+    "url": "https://github.com/djhonantanparreira/djhonantan.com/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djhonantanparreira/djhonantan.com.git"
+  },
+  "license": "MIT",
+  "author": "djhonantanparreira@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
